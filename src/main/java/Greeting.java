@@ -1,8 +1,5 @@
 public class Greeting {
-
-    private String name;
-    public Greeting(String name) {
-        this.name = name;
+    public Greeting() {
     }
 
     public String getGreeting(String name) {
